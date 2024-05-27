@@ -65,7 +65,7 @@ const Home = () => {
 
     return (
         <>
-            <div className="w-screen h-screen bg-[url('./images/cool-background.png')] text-white py-10 px-8 font-poppins relative z-0 max-[640px]:px-6">
+            <div className="w-screen h-screen text-white py-10 px-8 font-poppins relative z-0 max-[640px]:px-6">
                 {/* Headings and input */}
                 <div className="flex flex-col items-center">
                     <h3 className='text-3xl font-semibold my-6 max-[640px]:text-xl max-[640px]:my-4'>HEY WELCOME TO MY</h3>
